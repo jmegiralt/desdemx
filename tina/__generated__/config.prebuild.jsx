@@ -9,12 +9,12 @@ var config_default = defineConfig({
   // Get this from tina.io
   build: {
     outputFolder: "admin",
-    publicFolder: "_site/"
+    publicFolder: "./"
   },
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "_site/"
+      publicFolder: "./"
     }
   },
   schema: {
