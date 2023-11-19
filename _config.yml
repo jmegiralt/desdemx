@@ -1,9 +1,9 @@
 # Site settings
-title: Desde Studio
+title: Desde Studio México
 email: hello@desdestudio.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Estudio de diseño, arte y comunicación. Ayudamos a trazar soluciones de negocio a través del diseño y la comunicación.
+  Estudio de diseño, marca y comunicación. Ayudamos a trazar soluciones de negocio a través del diseño y la comunicación.
 
 countries: México · Spain · UK
 

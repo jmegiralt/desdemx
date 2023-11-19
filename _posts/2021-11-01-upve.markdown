@@ -4,8 +4,8 @@ title: Identidad visual para una institución líder en ingeniería agrícola en
 folder: upve
 lang: es
 
-client: UPVE
-permalink: /es/upve
+client: Universidad Politécnica Valle del Évora
+permalink: /proyectos/universidad-politecnica-valle-evora
 img: cover.jpg
 
 categories:

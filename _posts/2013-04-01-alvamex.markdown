@@ -5,7 +5,7 @@ folder: alvamex
 lang: es
 
 client: Grupo Alvamex
-permalink: /es/alvamex
+permalink: /proyectos/alvamex
 img: cover.jpg
 
 categories:

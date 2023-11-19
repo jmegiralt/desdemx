@@ -5,7 +5,7 @@ folder: irais
 lang: es
 
 client: Irais Robles
-permalink: /irais
+permalink: /proyectos/irais-robles
 date: 2016-12-12 13:33:30 +0100
 img: cover.jpg
 

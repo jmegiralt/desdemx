@@ -4,7 +4,7 @@ title: Dirección creativa para una startup líder en IA y búsqueda visual
 folder: snap
 lang: es
 client: Snap Tech
-permalink: /es/snap
+permalink: /proyectos/snap
 date: 2018-04-05 13:33:30 +0100
 categories: ux ui app design icon
 img: cover.jpg

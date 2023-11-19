@@ -5,7 +5,7 @@ folder: masin
 lang: es
 
 client: Museo de Arte de Sinaloa
-permalink: /es/masin
+permalink: /proyectos/museo-arte-sinaloa
 img: cover.jpg
 
 categories:

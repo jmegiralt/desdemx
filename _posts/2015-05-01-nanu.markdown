@@ -5,7 +5,7 @@ folder: nanu
 lang: es
 
 client: Nanú
-permalink: /es/nanu
+permalink: /proyectos/nanu
 img: cover.jpg
 
 categories:

@@ -5,7 +5,7 @@ folder: hm
 lang: es
 
 client: H&M
-permalink: /es/hm
+permalink: /proyectos/hm
 img: cover.jpg
 
 categories:

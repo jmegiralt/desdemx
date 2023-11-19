@@ -5,7 +5,7 @@ folder: gstt
 lang: es
 
 client: Guy's & St Thomas' NHS Foundation
-permalink: /es/gstt
+permalink: /proyectos/gstt
 img: cover.jpg
 
 categories:

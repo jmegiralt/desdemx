@@ -4,7 +4,7 @@ title: Branding y diseño de una app de colaboración orientada a multinacionale
 folder: hypha
 lang: es
 client: Hypha
-permalink: /es/hypha
+permalink: /proyectos/hypha
 img: cover.jpg
 
 categories:
