@@ -1,0 +1,22 @@
+---
+layout: post
+title: Diseño y experimentación tipográfica para la exposición Trayectos, Lugares y Memorias
+folder: masin
+lang: es
+
+client: Museo de Arte de Sinaloa
+permalink: /es/masin
+img: cover.jpg
+
+categories:
+  - Tipografía
+  - Dirección creativa
+  - Arte
+
+---
+
+Una experimentación artística que deriva en un proyecto de diseño.
+
+Fuimos invitados a colaborar en y para la exposición 'Trayectos, Lugares y Memorias'. Así nace Deriva Display Outline y Deriva Display Bold desarrollos tipográficos inspirados en una de las imágenes de la obra *Arqueotipos*, la cual rescata vestigios de letreros comerciales de la ciudad para restaurarlos digitalmente y así recordarnos que estos forman parte también de la memoria e imaginario de los habitantes de cualquier ciudad.
+
+Nuestra interpretación tipográfica toma como referencia el letrero con la palabra Hotel para encontrar su estructura básica, deconstruir sus elementos formales y de ahí partir al desarrollo de los demás caracteres. El resultado, además de ocupar uno de los muros en la galería se incluyó como parte de la comunicación y museografía de la exposición.

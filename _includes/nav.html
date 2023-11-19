@@ -1,0 +1,14 @@
+<nav class="navbar fixed-top navbar-expand-lg navbar-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{site.baseurl}}" alt="{{site.name}}">
+      <img src="{{site.logo}}" class="logo img-fluid" width="100">
+    </a>
+    <ul class="navbar-nav d-flex">
+      {% for item in site.data.nav %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{item.url}}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

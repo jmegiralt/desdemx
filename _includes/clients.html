@@ -1,0 +1,31 @@
+<section class="clients">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-md-6">
+        <h2>Clientes</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mini">
+    <div class="row">
+      <div class="col col-12">
+        <p>Durante los últimos 20 años hemos tenido el placer de trabajar con todo tipo de organizaciones, desde startups y pequeños comercios hasta marcas globales y fundaciones.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container">
+
+    <div class="row">
+      {%- for client in site.data.clients -%}
+      <div class="col col-4 col-md-2 client">
+        <img src="/assets/clients/{{client.img}}" alt="{{client.name}}" class="client-logo">
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+
+</section>

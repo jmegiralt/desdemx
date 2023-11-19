@@ -1,0 +1,131 @@
+// font
+
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100;300;400;600;800&display=swap');
+
+$font: 'Inter Tight', sans-serif;
+
+html,
+body {
+  font-family: $font;
+  font-weight: 400;
+  font-display: swap;
+  color: #111;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font;
+  font-weight: 800;
+  font-display: swap;
+  margin-bottom: .5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1em;
+  margin-bottom: .5rem;
+
+  @include md {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+  }
+  @include lg {
+    font-size: 3.2rem;
+  }
+
+  &.home {
+    font-size: 3.2rem;
+    @include lg {
+      font-size: 4.6rem;
+    }
+  }
+
+
+  &.client {
+    font-weight: 400;
+
+    @include lg {
+      font-size: 3.6rem;
+    }
+  }
+}
+
+h2 {
+  font-size: 1.8rem;
+  line-height: 1.4em;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  line-height: 1em;
+  font-weight: 600;
+  @include lg {
+    font-size: 1.4rem;
+    line-height: 1.1em;
+  }
+}
+
+h4 {
+  font-size: 1.2rem;
+  line-height: 1em;
+  font-weight: 200;
+  @include lg {
+  }
+}
+
+h5 {
+  font-size: 1rem;
+  line-height: 1em;
+  font-weight: 700;
+  @include lg {
+  }
+}
+
+p,
+li,
+span,
+label {
+  font-size: 1.1rem;
+  line-height: 1.4em;
+  font-weight: 300;
+  color: $text;
+  @include lg {
+    font-size: 1.3rem;
+    line-height: 1.6em;
+  }
+
+  &.client {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: $dark;
+  }
+
+  &.small {
+    font-size: 1.2rem;
+    @include lg {
+      font-size: 1.1rem;
+    }
+  }
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+    color: $red;
+    cursor: pointer;
+    &:hover,
+    &:focus {
+        color: lighten($red, 10%);
+    }
+}

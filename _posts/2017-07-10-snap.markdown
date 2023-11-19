@@ -1,0 +1,23 @@
+---
+layout: post
+title: Dirección creativa para una startup líder en IA y búsqueda visual
+folder: snap
+lang: es
+client: Snap Tech
+permalink: /es/snap
+date: 2018-04-05 13:33:30 +0100
+categories: ux ui app design icon
+img: cover.jpg
+
+categories:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+  - Diseño UX
+  - Web
+
+---
+
+Snap Tech es una empresa líder en IA y búsqueda visual, centrada en la industria de la moda y la belleza. Su producto estrella es Snap Fashion, una app móvil que a partir de una imagen sugiere prendas de ropa similares en cuanto a color, estampado o corte.
+
+Nuestra colaboración con el equipo de Snap se remonta a 2013, un año después de ser fundada. A lo largo de los años hemos trabajado en infinidad de proyectos. Entre ellos el rebranding de la empresa, el rediseño de la web y las apps móviles y la creación de una exitosa campaña de comunicación nacional en prensa, exterior y online.

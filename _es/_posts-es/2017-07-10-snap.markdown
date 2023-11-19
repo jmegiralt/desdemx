@@ -1,0 +1,21 @@
+---
+layout: post
+title: Marca y dirección creativa para el líder en búsqueda visual
+folder: snap
+lang: es
+client: Snap Vision
+permalink: /es/snap
+date: 2018-04-05 13:33:30 +0100
+categories: ux ui app design icon
+img: cover.jpg
+
+tags:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+  - Diseño UX
+  - Web
+
+---
+
+Brand identity, web and mobile app design for Snap Vision –formerly Snap Fashion–, a London based startup building visual search solutions for publishers, retailers and brands in the fashion industry and beyond.

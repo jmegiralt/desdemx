@@ -1,0 +1,22 @@
+---
+layout: post
+title: Destacar el rol de los camilleros
+folder: gstt
+lang: es
+
+client: Guy's & St Thomas' Trust
+permalink: /es/gstt
+img: cover.jpg
+
+categories:
+  - Graphic design
+
+---
+
+Guy’s and St Thomas’ NHS Foundation Trust not only runs some of the top hospitals in the UK –Guy's Hospital in London Bridge, St Thomas' Hospital in Waterloo and Evelina London Children's Hospital– but it also has one of the largest and oldest collections of fine art and heritage in the country.
+
+The Art of Portering highlights the Trust’s fine art collection through the eyes of the hospital porters. The portering team selected artworks for inclusion on their most used routes which they explain and discuss with patients along their journey. This project is a collaboration between Guy’s and St Thomas’ Charity, Breathe Arts Health Research and poet Simon Mole.
+
+Using the colour of the porters’ uniform as the starting point, we created a visual identity and designed the panels and leaflets that inform the public about each of the pieces displayed through the busiest paths in the hospitals, echoing the essential role that porters play.
+
+<!--A key design consideration for this project was to recognise those visiting the hospital are of all ages and cultures, therefore user accessibility was vital to the project’s success. In this case sharp, clear visuals were key to ensure that everyone could interact and understand.-->

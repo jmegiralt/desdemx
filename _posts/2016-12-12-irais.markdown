@@ -1,0 +1,20 @@
+---
+layout: post
+title: Identidad visual para una boutique de diseño de interiores
+folder: irais
+lang: es
+
+client: Irais Robles
+permalink: /irais
+date: 2016-12-12 13:33:30 +0100
+img: cover.jpg
+
+categories:
+  - Branding
+  - Dirección creativa
+  - Diseño gráfico
+
+---
+Una novel diseñadora de interiores requería una marca que le ayudará a destacarse en  su competido medio al mismo tiempo que le permitiera vincular nuevas unidades de negocio a mediano plazo.
+
+Tomando como característica principal la limpieza y sobriedad de sus proyectos de interiorismo, desarrollamos un sistema de comunicación flexible y escalable, distinto a cualquier otro de su ramo. Con la idea conceptual del espacio como elemento variable y reconfigurable comunicamos la esencia de la marca. Obteniendo como resultado una marca moderna, única y preparada para crecer con el cliente y sus necesidades futuras.

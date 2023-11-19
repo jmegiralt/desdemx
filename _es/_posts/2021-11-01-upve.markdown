@@ -1,0 +1,22 @@
+---
+layout: post
+title: Brand identity redesign for a leading agro engineering university
+folder: upve
+lang: en
+
+client: UPVE
+permalink: /upve
+img: cover.jpg
+
+tags:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+
+---
+
+The UPVE is a leading institution in agro engineering in the northern Mexico region.
+
+The new brand identity and the communication strategy had to include the wide diversity of collectives that connect with the university: current and potential students, alumni, local parents and families, university staff, local and regional businesses, councils and the overall local community, where the school plays a key role in development…
+
+We created a modular approach that gave flexibility to the diverse and complex communication needs that the brand required.

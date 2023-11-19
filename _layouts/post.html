@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<article class="post {{page.layout}}">
+
+  <div class="project-hero swiper projectSwiper">
+    <div class="swiper-wrapper">
+      {% for image in site.static_files %}
+        {% if image.path contains 'cover.jpg' %}
+        {% elsif image.path contains 'assets/work/' and image.path contains page.folder %}
+          <div class="swiper-slide">
+            <picture>
+              <img src="{{ image.path }}" alt="image" class="img-fluid" />
+            </picture>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+  <div class="container mini post-content">
+    <div class="row">
+      <div class="col col-12">
+        <h1>{{page.title}}</h1>
+      </div>
+      <div class="col col-12 col-lg-8">
+        {{ content }}
+      </div>
+      <div class="col col-12 col-lg-4 side">
+        {%- if page.client -%}
+        <div class="side-group">
+          <h3>Cliente</h3>
+          <p>{{page.client}}</p>
+        </div>
+        {%- endif -%}
+
+        {%- if page.categories -%}
+        <div class="side-group">
+          <h3>Servicios</h3>
+          {% for category in page.categories %}
+          <p class="category">{{ category }}</p>
+          {% endfor %}
+        </div>
+        {%- endif -%}
+      </div>
+
+    </div>
+  </div>
+
+  {%- include projects.html -%}
+
+</article>

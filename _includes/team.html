@@ -1,0 +1,43 @@
+<section class="team">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <h2>Equipo</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mini">
+    <div class="row">
+      {%- for person in site.data.team -%}
+      <div class="col col-12 col-lg-6">
+        <div class="card person">
+          <div class="card-header">
+            <img src="/assets/about/{{person.img}}" alt="{{person.name}}" class="img-fluid">
+          </div>
+          <div class="card-body">
+            <h3>{{ person.name }}</h3>
+            <p class="role">{{ person.role }} / {{person.location}}</p>
+            <p class="small">{{ person.text }}</p>
+          </div>
+        </div>
+
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+
+  <div class="container mini">
+    <div class="row">
+      <div class="col col-12 col-md-6">
+        <p>{{ page.contact }}</p>
+      </div>
+      <div class="col col-12 col-md-6">
+        {%- include form.html -%}
+      </div>
+    </div>
+  </div>
+
+
+</section>

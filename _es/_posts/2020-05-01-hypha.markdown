@@ -1,0 +1,25 @@
+---
+layout: post
+title: Branding and UX design for an enterprise collaboration tool
+folder: hypha
+lang: en
+client: Hypha
+permalink: /hypha
+img: cover.jpg
+
+tags:
+  - Brand
+  - Strategy
+  - Graphic design
+  - UX
+  - Web
+
+---
+
+Hypha is an app that helps large organisations connect people, knowledge, data and insights in unique ways in order to accelerate innovation and growth. The company's inspiration comes from hyphae, the filament structures that feed nutrients to a plant’s roots, and allows them to distribute resources and communicate with other plants.
+
+Desde collaborated with the team at Hypha during their first year of existence and were key to securing several large clients including Ikea, Reckitt and Sura, and successfully launching two pre-seed and crowdfunding campaigns.
+
+Working together with Hypha’s engineering team to launch the app in a few months, we designed and built the user experience for the first app version, as well as the first prototype of the real-time whiteboard feature.
+
+We also redesigned the brand and their core messaging, helped create the company’s Manifesto, redesigned their website and created all the marketing assets for social media, prospect pitches and crowdfunding campaigns.

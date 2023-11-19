@@ -1,15 +1,16 @@
-# Config
+# Site settings
+title: Desde Studio
+email: hello@desdestudio.com
 
-title: Desde Studio MX
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Desde Studio México
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: > # this means to ignore newlines until "baseurl:"
+  Estudio de diseño, arte y comunicación. Ayudamos a trazar soluciones de negocio a través del diseño y la comunicación.
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+countries: México · Spain · UK
+
+baseurl: /
+url: "" # the base hostname & protocol for your site
+
+logo: /assets/desde_logo_red.svg
+img: /assets/desde-studio-card.jpg
+
+include: ['_pages']

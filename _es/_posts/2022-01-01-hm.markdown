@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mobile platform design for H&M employees and suppliers
+folder: hm
+lang: en
+client: H&M
+permalink: /hm
+img: cover.jpg
+
+tags:
+  - Web
+  - UX
+
+---
+
+H&M is one of the largest fashion retailers in the world. Each Christmas the staff receive discounts as a thank you. Due to the pandemic, their original printed vouchers had to be reconsidered. H&M approached us a month before Christmas to help them find a solution.
+
+We designed and developed a mobile-first platform for the 7000+ staff and suppliers in Spain and Portugal. Users could easily access their discount coupons, redeem them in any H&M store or online and digitally share  them with  friends and family. We combined a very intuitive interface with a robust web architecture (100% uptime), which resulted in an average of 6k daily unique visits and over 30k coupons being shared during the promotion.
+
+The platform and the interface design was an instant success amongst the staff, and we are delighted H&M have asked us to manage this project two years in a row.

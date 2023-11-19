@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article class="page {{page.layout}}">
+
+  <div class="container-fluid">
+    <div class="about-grid grid">
+      <div class="col-3" style="background:url('/assets/about/ab1');"></div>
+      <div class="col-3" style="background:url('/assets/about/ab2');"></div>
+      <div class="col-3 hide" style="background:url('/assets/about/ab3');"></div>
+      <div class="col-3" style="background:url('/assets/about/ab4');"></div>
+      <div class="col-3" style="background:url('/assets/about/ab5');"></div>
+      <div class="col-3 hide" style="background:url('/assets/about/ab6');"></div>
+      <div class="col-3" style="background:url('/assets/about/ab7');"></div>
+      <div class="col-3" style="background:url('/assets/about/ab8');"></div>
+    </div>
+  </div>
+
+  <header class="hero">
+    <div class="container mini">
+      <div class="row">
+        <div class="col col-12 col-lg-6">
+          <h1>{{page.title}}</h1>
+        </div>
+        <div class="col col-12 col-lg-6">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {%- include services.html -%}
+  {%- include why.html -%}
+  {%- include team.html -%}
+  {%- include clients.html -%}
+
+</article>

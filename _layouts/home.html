@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+
+<header class="home video-container">
+  <video
+        loop
+        autoplay
+        muted="true"
+        preload="metadata"
+        src="/assets/video/video.mp4"
+        poster="/assets/video/video.jpg"
+  ></video>
+</header>
+
+
+<div class="container mini">
+
+  <div class="hero">
+    <div class="row">
+      <div class="col-12 col-lg-6">
+        <h1 class="home">{{page.home-title}}</h1>
+      </div>
+      <div class="col-12 col-lg-6">
+        <p>{{content}}</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{%- include projects.html -%}
+{%- include clients.html -%}

@@ -1,0 +1,42 @@
+
+// footer
+
+footer {
+  background: $dark;
+  padding: 2rem 0;
+
+  .container {
+
+    h4 {
+      color: white;
+      font-weight: 600;
+    }
+
+    address,
+    p,
+    span {
+      font-size: 1.2rem;
+      line-height: 1.4em;
+      font-weight: 300;
+      color: white;
+      margin-bottom: 2rem;
+      &.small {
+        font-size: .8rem;
+        opacity: .4;
+      }
+    }
+
+    address {
+      display: flex;
+      flex-direction: row;
+      i {
+        margin-right: .3rem;
+      }
+    }
+
+    img.social-icon {
+      max-width: 24px;
+    }
+  }
+
+}

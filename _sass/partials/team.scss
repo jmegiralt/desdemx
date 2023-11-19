@@ -1,0 +1,24 @@
+// Team
+
+section.team,
+.team {
+  .person {
+    margin-bottom: 2rem;
+    .card-header {
+      background: none;
+      img {
+        max-width: 300px;
+        margin-bottom: 1rem;
+      }
+    }
+    .card-body {
+      h3 {
+        margin-bottom: .4rem;
+      }
+      p.role {
+        font-size: .9rem;
+        text-transform: uppercase;
+      }
+    }
+  }
+}

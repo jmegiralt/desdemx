@@ -1,0 +1,30 @@
+<section class="services">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <h2>Servicios</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container mini">
+    <div class="row">
+    {% for service in site.data.services %}
+      <div class="col col-12 col-md-4">
+        <div class="card service">
+          <div class="card-body">
+            <h3>{{ service.title }}</h3>
+            {% if service.items %}
+            {%- for item in service.items -%}
+            <ul>
+              <li class="small">{{ item.title }}</li>
+            </ul>
+            {%- endfor -%}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+
+</section>

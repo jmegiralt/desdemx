@@ -1,0 +1,39 @@
+{%- if site.posts.size > 0 -%}
+<section id="projects" class="projects">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <h2>Proyectos</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      {% assign posts = site.posts | where:"lang", page.lang %}
+      {% for post in posts %}
+      {%- if page.url == post.url -%}
+      {% else %}
+      <div class="col col-12 col-md-6 col-xl-4">
+        <a href="{{post.url}}" class="card project">
+          <div class="card-header">
+            <div class="arrow-container">
+              <div class="arrow right">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            
+            <img src="/assets/work/{{ post.folder }}/{{ post.img }}" alt="" class="img-fluid">
+          </div>
+          <div class="card-body">
+            {%- if post.client -%}<label class="client">{{post.client}}</label>{%- endif -%}
+            <h3>{{ post.title }}</h3>
+          </div>
+        </a>
+      </div>
+      {%- endif -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+{%- endif -%}

@@ -1,0 +1,25 @@
+---
+layout: post
+title: Naming e identidad visual para un nuevo modelo de educación preescolar
+folder: nanu
+lang: es
+
+client: Nanú
+permalink: /es/nanu
+img: cover.jpg
+
+categories:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+  - Diseño gráfico
+
+---
+
+Un proyecto con mucho amor.
+
+Trabajamos de la mano de sus creadoras, una pareja de madres visionarias que al no encontrar una opción educativa preescolar que las convenciera para la educación de sus hijos pequeños, descubrieron que no eran las únicas con el mismo problema, por lo que decidieron emprender y crear un modelo educativo que recogiera lo mejor de los existentes en uno solo, al cual llamamos: Raíces.  
+
+Por otra parte, la marca debería ser amigable, cercana, armónica, profesional y confiable, además de evitar ser “infantil” para diferenciarse de otras de su clase. Durante el desarrollo del proyecto fue diversificándose para incluir distintos productos y servicios derivados de las amplias posibilidades de la idea original. De ahí que nuestra solución final se tradujo a un sistema de comunicación flexible, rico y colorido, capaz de adaptarse y crecer de acuerdo a las necesidades de Nanú.  
+
+Siempre nos motiva trabajar con personas emprendedoras que se atreven a marcar la diferencia, que dan la vuelta a lo establecido con el afán de hacer algo nuevo, algo mejor. En resumen, que se atreven a trazar su propio camino.

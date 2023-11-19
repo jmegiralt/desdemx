@@ -1,0 +1,107 @@
+//card
+
+a.card,
+.card {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  margin-bottom: 1rem;
+  cursor: pointer;
+
+  .card-header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .card-body {
+    padding: 0;
+    background: none;
+  }
+
+  // Project card
+  &.project {
+    border: 0;
+    color: $dark;
+    text-decoration: none;
+    background: none;
+    transition: all .4s ease-in-out;
+    cursor: pointer !important;
+
+    .card-header {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 0;
+      background: none;
+      padding: 0;
+      margin: 0;
+      border-radius: $radius;
+      overflow: hidden;
+      transition: all .4s ease-in-out;
+
+      img {
+        transition: all .4s ease-in-out;
+      }
+    }
+
+    .card-body {
+      padding: 1rem 0;
+
+      label,
+      h3 {
+        font-size: 1.2rem;
+        @include lg {
+          font-size: 1.3rem;
+        }
+      }
+      h3 {
+        font-weight: 300;
+        opacity: .6;
+      }
+    }
+
+    &:hover {
+      cursor: pointer;
+
+      img {
+        transform: scale(1.1);
+      }
+    }
+
+    &.full {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  // Team Person
+  &.person {
+
+  }
+
+}
+
+
+// tags
+
+.tags {
+  padding: 1rem 0 2rem 0;
+  span.tag {
+    font-size: .8rem;
+    line-height: 1em;
+    color: dark($grey, 10%);
+    border-radius: 0px;
+    border-bottom: 1px solid $grey;
+    @include lg {
+      font-size: .8rem;
+    }
+  }
+}
+
+
+.youmaylike {
+  margin-top: 8rem;
+}

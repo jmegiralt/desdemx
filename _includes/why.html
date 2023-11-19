@@ -1,0 +1,25 @@
+<section class="why">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <h2>Enfoque</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container mini">
+    <div class="row">
+      {%- for item in site.data.why -%}
+      <div class="col col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card why">
+          <div class="card-body">
+            <h3>{{ item.title }}</h3>
+            <p class="small">{{ item.text }}</p>
+          </div>
+        </div>
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+
+</section>

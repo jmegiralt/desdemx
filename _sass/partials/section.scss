@@ -1,0 +1,39 @@
+// section
+
+section {
+  padding: 5rem 0 6rem 0;
+
+  &.projects {
+    background: darken($bg, 3%);
+  }
+
+  &.clients {
+    background: darken($bg, 6%);
+  }
+
+  &.services {
+    background: darken($bg, 9%);
+  }
+
+  &.why {
+    background: $dark;
+    color: white;
+  }
+
+  h2 {
+    position: relative;
+    margin-bottom: 2rem;
+    /*
+    &:before {
+      display: block;
+      content: '';
+      position: absolute;
+      top: 1rem;
+      left: -1.8rem;
+      width: 1.2rem;
+      height: .3rem;
+      background: $red;
+    }
+    */
+  }
+}

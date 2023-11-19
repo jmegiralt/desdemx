@@ -1,0 +1,38 @@
+// about-grid
+
+.grid,
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0;
+
+  @include md {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  @include lg {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  div,
+  .col-3 {
+    min-height: 180px;
+    @include md {
+      min-height: 260px;
+    }
+    @include lg {
+      min-height: 280px;
+    }
+    width: 100%;
+    background-position: center !important;
+    background-size: cover !important;
+
+    &.hide {
+      display: none;
+      @include lg {
+        display: block;
+      }
+    }
+  }
+
+}

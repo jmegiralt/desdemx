@@ -1,0 +1,28 @@
+<div class="form">
+
+  <form
+    name="contact"
+    method="POST"
+    action="/gracias"
+    netlify-honeypot="bot-field"
+    data-netlify="true">
+    <div class="form-group hidden">
+      <label>Job</label>
+      <input name="bot-field" />
+    </div>
+    <div class="form-group">
+      <label>Nombre</label>
+      <input type="text" name="name" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label>Correo</label>
+      <input type="text" name="email" class="form-control"/>
+    </div>
+    <div class="form-group">
+      <label>Mensaje</label>
+      <textarea class="form-control" rows="3" name="project"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+
+</div>

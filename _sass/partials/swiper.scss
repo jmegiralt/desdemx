@@ -1,0 +1,62 @@
+//swiper-slide
+
+.project-hero {
+  width: 100%;
+  min-height: 400px;
+  max-height: 600px;
+  height: 60vh;
+  position: relative;
+  overflow: hidden;
+
+  @include md {
+    min-height: 480px;
+    max-height: 100%;
+    height: 90vh;
+  }
+
+  @include xxl {
+    min-height: 600px;
+    height: 90vh;
+  }
+
+  .swiper-slide {
+    width: 100%;
+    height: 100%;
+
+    picture {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      img {
+        object-fit: cover;
+        min-height: 100%;
+        min-width: 100%;
+      }
+    }
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: white;
+    opacity: .6;
+    &:hover {
+      opacity: 1;
+    }
+    &:after {
+      font-size: 1.5rem;
+    }
+  }
+
+  .swiper-pagination {
+    span.swiper-pagination-bullet {
+      &.swiper-pagination-bullet-active {
+        background: white;
+        opacity: 1;
+      }
+    }
+  }
+
+}

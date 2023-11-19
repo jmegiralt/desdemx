@@ -1,0 +1,32 @@
+
+
+.walking-container {
+  border-bottom: 4px solid $red;
+  padding-bottom: .35rem;
+  width: 27px;
+  margin-bottom: 1rem;
+  .walking {
+    height: 50px;
+    width: 27px;
+    background: url('/assets/walking-man.png');
+    background-size: cover;
+    animation: walking-loop 1.2s steps(12) infinite;
+    transition: all .2s ease-in-out;
+    &:hover {
+      animation: walking-loop .6s steps(12) infinite;
+    }
+  }
+
+  &.small {
+    transform: scale(.8);
+  }
+}
+
+@keyframes walking-loop {
+  0% {
+    background-position: 0px;
+  }
+  100% {
+    background-position: -362px;
+  }
+}

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Identidad visual para una institución líder en ingeniería agrícola en México
+folder: upve
+lang: es
+
+client: UPVE
+permalink: /es/upve
+img: cover.jpg
+
+categories:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+
+---
+
+Lo que comenzó a inicios del 2018 como una charla sobre branding se transformó en un ambicioso proyecto de comunicación visual que continúa hasta el momento.
+
+Como parte de un proceso de renovación estructural y planeación estratégica la institución nos solicitó un análisis de rendimiento gráfico de su marca, lo que dió paso a un rediseño completo de identidad.
+La marca y en general la comunicación debería tomar en cuenta a los distintos grupos de interés a los que va dirigida: Alumnos, ex-alumnos, aspirantes, padres de familia, personal académico, sector empresarial de la región y comunidad en general. Era importante por tanto resaltar la importancia comunitaria de la misma institución en vías de consolidación en la región.
+
+Para ofrecer una solución que permitiera dar respuesta a las múltiples y diversas necesidades de comunicación desarrollamos un sistema de identidad visual construido en una rejilla modular que otorga flexibilidad a los múltiples mensajes que acompañan la marca. Algunas de las versiones del identificador incluyen: identificadores abreviados, para condiciones de visualización limitada, extendidos para reconocimiento externo, así como identificadores para cada una de las cuatro carreras.
+
+Al desarrollar los lineamientos de uso planificamos también el procedimiento de socialización de la nueva identidad con el objetivo de lograr independencia en su gestión pero también consistencia en su aplicación. Llevamos a cabo sesiones de capacitación para el personal directivo y material de consulta rápida con las situaciones de uso más frecuente de los distintos identificadores. Debido a la pandemia muchas de estas sesiones se llevaron a distancia, así como el lanzamiento oficial de la nueva identidad para toda la comunidad universitaria, mediante correos electrónicos, videos explicativos, publicaciones en redes y dossier para prensa, la cual se encargó de difundir en los distintos medios regionales la nueva cara de la institución.
+
+Adicionalmente nos encargamos del diseño de uniformes casuales, deportivos, material promocional y actualmente desarrollamos el programa de señalética de las instalaciones para mejorar la navegación espacial de la institución.

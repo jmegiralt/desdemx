@@ -1,0 +1,16 @@
+---
+layout: post
+title: Brand architecture for a leading animal food manufacturer and distributor
+folder: alvamex
+lang: en
+
+client: Grupo Alvamex
+permalink: /alvamex
+img: cover.jpg
+
+tags:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+
+---

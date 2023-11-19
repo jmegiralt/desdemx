@@ -1,0 +1,22 @@
+---
+layout: post
+title: Diseño gráfico de una exposición organizada en los principales hospitales de Londres
+folder: gstt
+lang: es
+
+client: Guy's & St Thomas' NHS Foundation
+permalink: /es/gstt
+img: cover.jpg
+
+categories:
+  - Branding
+  - Diseño gráfico
+  - Ilustración
+
+---
+
+La fundación Guy's and St Thomas' NHS dirige algunos de los principales hospitales de Londres, como el hospital Guy's en London Bridge, el hospital St Thomas' en Waterloo o el hospital infantil Evelina London. La fundación además posee una de las mayores y más antiguas colecciones de arte y cultura de todo el país.
+
+El proyecto 'The Art of Portering' muestra la colección de arte en los pasillos de los principales hospitales. Las obras fueron seleccionadas por el equipo de camilleros del hospital para ser mostradas en sus rutas más transitadas. La intención del proyecto era convertir cada obra en un tema de conversación con los pacientes, y ayudarles a relajarse o distraerse por unos instantes. El proyecto fue una iniciativa de la organización Breathe Arts Health Research, en conjunto con Guy's & St Thomas' Charity y el poeta Simon Mole.
+
+Tomando el color del uniforme de los camilleros como punta de partida, creamos un diseño sencillo y elegante, en concordancia con la imagen de la fundación, y que informara al público sobre cada obra de arte e invitara al público y a las visitas a recorrer los pasillos, descubrir las diferentes obras de arte y celebrar el imprescindible papel que juegan los camilleros en el funcionamiento de un hospital, muchas veces pasado por alto.

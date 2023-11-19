@@ -1,0 +1,21 @@
+---
+layout: post
+title: Diseño de una app de fidelización para empleados del grupo H&M
+folder: hm
+lang: es
+
+client: H&M
+permalink: /es/hm
+img: cover.jpg
+
+categories:
+  - Web
+  - Diseño UX
+
+---
+
+H&M es una de las mayores empresas de moda del planeta. Cada Navidad sus empleados reciben cupones de descuento como agradecimiento por el trabajo realizado durante todo el año. Debido a la pandemia, los cupones impresos originales tenían que replantearse. H&M quería una solución digital... y en menos de un mes.
+
+Diseñamos y desarrollamos una app web en la que los usuarios podían acceder fácilmente y utilizar los cupones en tiendas o en línea, o enviárselos a familiares y amigos. Combinamos un diseño sencillo, funcional e intuitivo con una arquitectura robusta y segura, que permitió que no hubiera interrupción alguna del servicio especialmente en las horas con más flujo de visitas.
+
+La plataforma fue un éxito con los empleados y la directiva, y estamos encantados de que nos hayan pedido que nos encarguemos de este proyecto desde entonces.

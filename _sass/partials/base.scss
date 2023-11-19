@@ -1,0 +1,73 @@
+
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: $light-grey;
+}
+
+// article
+article {
+  &.page {
+    margin-top: 4.5rem;
+    &.about,
+    &.nosotros {
+      margin: 0;
+    }
+  }
+}
+
+hr {
+//  border-color: $theme-primary;
+  border-width: 4px;
+  max-width: 30px;
+}
+
+// container
+.container {
+  position: relative;
+  margin: 0 auto;
+  text-align: left;
+  background: none;
+  padding: 1.4rem;
+  max-width: 1600px;
+
+  &.mini {
+    max-width: 1200px;
+  }
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+
+// dictionary
+.dictionary {
+  display: block;
+  margin-top: 4rem;
+
+  p {
+    font-size: .8rem;
+    line-height: 1.4em;
+    text-align: left;
+    opacity: .75;
+  }
+}
+
+.service {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.flag {
+  .flag-content {
+    padding: 2rem;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+}

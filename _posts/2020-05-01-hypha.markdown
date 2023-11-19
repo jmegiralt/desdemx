@@ -1,0 +1,27 @@
+---
+layout: post
+title: Branding y diseño de una app de colaboración orientada a multinacionales
+folder: hypha
+lang: es
+client: Hypha
+permalink: /es/hypha
+img: cover.jpg
+
+categories:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+  - Diseño UX
+  - Web
+
+---
+
+Hypha es una app web que quiere mejorar como los equipos multi disciplinares colaboran y trabajan juntos.
+
+El nombre de la compañía se inspira en las hyphae (hifas), la red de filamentos que nutren las raíces de los árboles y las plantas, y que les permite distribuir recursos y comunicarse con otras plantas.
+
+Nuestro trabajo se dividió en dos áreas, producto y marketing.
+
+En cuanto al producto, trabajamos codo con codo con el CTO y el equipo técnico, diseñamos el UX de la app y desarrollamos el front-end de la versión inicial del producto. En apenas dos meses convertimos un boceto inicial en una app funcional, intuitiva y usada por miles de usuarios a diario.
+
+Por otro lado desarrollamos la marca, la estrategia de comunicación, escribimos el Manifiesto de la empresa y rediseñamos su página web y sus principales canales sociales.

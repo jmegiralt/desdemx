@@ -1,0 +1,20 @@
+---
+layout: post
+title: Naming and visual identity for a new concept of nursery
+folder: nanu
+lang: en
+
+client: Nanú
+permalink: /nanu
+img: cover.jpg
+
+tags:
+  - Branding
+  - Estrategia
+  - Dirección creativa
+
+---
+
+Nanu is an innovative preschool centre based in Guadalajara, Mexico.
+
+Working closely with the two founders, we envisioned a modular and flexible brand system that could adapt to the diverse products and services that were in offer. The design solution was a flexible, colourful and rich system that could adapt to their needs as the business grew.

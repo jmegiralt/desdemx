@@ -1,0 +1,23 @@
+---
+layout: post
+title: Brand identity and creative direction for a disruptive AI startup
+folder: snap
+lang: en
+client: Snap Tech
+permalink: /snap
+date: 2018-04-05 13:33:30 +0100
+img: cover.jpg
+
+tags:
+  - Brand
+  - Graphic design
+  - UX
+  - Web
+
+---
+
+Snap Tech is a London based software company offering world-class visual search tools for publishers, retailers and tech companies within the fashion industry and beyond.
+
+Our collaboration with the team at Snap started back in 2013. Over the years we have helped Snap prototype and develop their ideas into robust, successful and enjoyable products. We have created a cohesive user experience across web, mobile, tablet and even mirrors placed in stores. We helped rebrand the company, launch a nation-wide marketing online and print campaign and expand their solutions into many industries.
+
+We are delighted to have been

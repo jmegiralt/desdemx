@@ -1,0 +1,42 @@
+// contact form
+
+article.contact {
+  .container.mini {
+    margin-bottom: 4rem;
+    .col {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+.form {
+  form {
+    .form-group {
+      margin-bottom: 1rem;
+      &.hidden {
+        display: none;
+      }
+      label {
+        font-size: 1rem;
+        line-height: 1.5em;
+      }
+      input,
+      textarea {
+        border-radius: 0px;
+      }
+      textarea {
+        min-height: 180px;
+      }
+    }
+    button.btn.btn-primary,
+    .btn.btn-primary {
+      border: 0px;
+      border-radius: 0px;
+      background: $dark;
+      display: block;
+      width: 100%;
+      padding: .8rem;
+      font-weight: bold;
+    }
+  }
+}

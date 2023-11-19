@@ -1,0 +1,43 @@
+#clients
+
+- name: H&M
+  img: hm.svg
+
+- name: Volkswagen
+  img: vw.svg
+
+- name: Guys and St Thomas Trust
+  img: gstt.svg
+
+- name: FC Barcelona
+  img: fcb.svg
+
+- name: AXA
+  img: axa.svg
+
+- name: Yamaha
+  img: yamaha.svg
+
+- name: Reckitt
+  img: reckitt.svg
+
+- name: King's College London
+  img: kcl.svg
+
+- name: SEAT
+  img: seat.svg
+
+- name: CaixaBank
+  img: caixa.svg
+
+- name: Honda
+  img: honda.svg
+
+- name: Electrolux
+  img: electrolux.svg
+
+#- name: AbinBev
+#  img: abinbev.svg
+
+#- name: IKEA
+#  img: ikea.svg
