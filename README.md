@@ -1,18 +1,18 @@
-# Desde
+# Desde Studio MX
 
-Website for Desde Studio
+Welcome to the repo for the portfolio of Desde Studio México
 
-----
+---
 
-## Install & run locally
+### Install & run locally
 
 ```
 bundle exec jekyll serve
 ```
 
-----
+---
 
-## Build
+### Build
 
 ```
 jekyll build
